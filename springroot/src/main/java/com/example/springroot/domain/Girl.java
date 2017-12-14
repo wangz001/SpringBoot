@@ -1,4 +1,4 @@
-package com.example.springroot;
+package com.example.springroot.domain;
 
 
 import javax.persistence.Entity;

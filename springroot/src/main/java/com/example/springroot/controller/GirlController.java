@@ -1,6 +1,8 @@
-package com.example.springroot;
+package com.example.springroot.controller;
 
 
+import com.example.springroot.repository.GirlReposity;
+import com.example.springroot.domain.Girl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
