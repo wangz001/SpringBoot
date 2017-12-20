@@ -2,6 +2,7 @@ package com.example.springroot.domain;
 
 import org.springframework.beans.factory.annotation.Value;
 
+import javax.annotation.sql.DataSourceDefinition;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
